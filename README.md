@@ -1,50 +1,50 @@
-<center>
+<p align="center">
   <img src="design/desktop-design.jpg" alt="Logo" width="250">
   <h3>Grab</h3>
   <h5>Página de login</h5>
   <a href="https://github.com/magdielndantas/grab-pagina-de-login">Desafio</a> | 
   <a href="https://www.linkedin.com/in/magdielndantas/">Contato</a>
-</center>
+</p>
 
-##Devchallenge
+## Devchallenge
 DevChallenge permite que você evolua suas skills como programador!
 
 ##Desafio
 Seu desafio será criar uma página de login e verificar se o formulário foi preenchido corretamente.
 
-##Tecnologias
+## Tecnologias
 HTML <br/>
 CSS <br/>
 Javascript
 
-##Como começar
+## Como começar
 1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial
 2 - Leia as instruções no readme.md
 3 - Comece a codar!
 4 - Compartilhe seu resultado com a comunidade :)
 
-##Requisitos
+## Requisitos
 - Sua página deve se parecer o mais próximo possível do design
 - Sua página deve ser responsiva
 
-##Design
+## Design
 Modelo está disponível na pasta ./design
 Imagens estão disponíveis na pasta ./assets
 
 O layout pode ser visto e copiado diretamente do Figma [clicando aqui](https://www.figma.com/file/QYQm17sJV0ZhviTGOa1jmZ/Untitled?node-id=0%3A1). Nesse arquivo, você pode exportar imagens e ícones como desejar.
 
-###Cores
+### Cores
 Azul: #4E5BEE
 Vermelho: #FF5757
 Cinza: #F8F8F8
 
-###Fonte
+### Fonte
 [Roboto](https://fonts.google.com/specimen/Roboto)
 
-##Icones
+## Icones
 [Material Icons(outline)](https://material.io/resources/icons/?style=outline)
 
-##Compartilhe
+## Compartilhe
 1 - Inicie seu projeto utilizando esse template no seu github como um repositório público
 2 - Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin
 3 - Você tambm pode adicionar uma "issue" neste repositório mostrando seu resultado final
