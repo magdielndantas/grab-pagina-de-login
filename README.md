@@ -1,7 +1,8 @@
 <p align="center">
   <img src="design/desktop-design.jpg" alt="Logo" width="250">
-  <h3>Grab</h3>
-  <h5>Página de login</h5>
+  <h3>Grab - Página de login</h3>
+</p>
+<p align="center">
   <a href="https://github.com/magdielndantas/grab-pagina-de-login">Desafio</a> | 
   <a href="https://www.linkedin.com/in/magdielndantas/">Contato</a>
 </p>
