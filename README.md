@@ -1,79 +1,54 @@
-<br />
-<p align="center">
-  <a href="http://www.freepik.com">
-    <img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/874x512/2bc76fc9373587c9d5ca571d19530719/4435_1.png" alt="Logo" width="250" height="150">
-  </a>
+<center>
+  <img src="design/desktop-design.jpg" alt="Logo" width="250">
+  <h3>Grab</h3>
+  <h5>Página de login</h5>
+  <a href="https://github.com/magdielndantas/grab-pagina-de-login">Desafio</a> | 
+  <a href="https://www.linkedin.com/in/magdielndantas/">Contato</a>
+</center>
 
-  <h3 align="center">Amazing Graph</h3>
+##Devchallenge
+DevChallenge permite que você evolua suas skills como programador!
 
-  <p align="center">
-    Landing page to create amazing graphics
-       <br />
-    <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
-    ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
-  </p>
-</p>
+##Desafio
+Seu desafio será criar uma página de login e verificar se o formulário foi preenchido corretamente.
 
+##Tecnologias
+HTML <br/>
+CSS <br/>
+Javascript
 
+##Como começar
+1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial
+2 - Leia as instruções no readme.md
+3 - Comece a codar!
+4 - Compartilhe seu resultado com a comunidade :)
 
-# Welcome :)
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
+##Requisitos
+- Sua página deve se parecer o mais próximo possível do design
+- Sua página deve ser responsiva
 
-# Challenge
-Your challenge is to build a landing page about a website that create graphics.<br><br>
-Seu desafio é criar uma página sobre um site de criação de gráficos.
+##Design
+Modelo está disponível na pasta ./design
+Imagens estão disponíveis na pasta ./assets
 
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/cb82a7069f698bde3bafb4ea20316951/mockuper_(1)_(1).png" width="380" height="380">
+O layout pode ser visto e copiado diretamente do Figma [clicando aqui](https://www.figma.com/file/QYQm17sJV0ZhviTGOa1jmZ/Untitled?node-id=0%3A1). Nesse arquivo, você pode exportar imagens e ícones como desejar.
 
-# Techs: 
-HTML<br>
-CSS
+###Cores
+Azul: #4E5BEE
+Vermelho: #FF5757
+Cinza: #F8F8F8
 
-# Getting start:
-1 - Use this template or download this repository with the starter code<br>
-2 - Read the instructions in readme.md<br>
-3 - Start coding!<br>
-4 - Share your results with the community :)<br>
-<br>
-1 - Use esse template ou baixe esse repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar!<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
+###Fonte
+[Roboto](https://fonts.google.com/specimen/Roboto)
 
+##Icones
+[Material Icons(outline)](https://material.io/resources/icons/?style=outline)
 
-# Requirements:
-- Your page should get it looking as close to the design as possible<br>
-- Your page should be responsive<br>
-<br>
+##Compartilhe
+1 - Inicie seu projeto utilizando esse template no seu github como um repositório público
+2 - Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin
+3 - Você tambm pode adicionar uma "issue" neste repositório mostrando seu resultado final
 
-- Sua página deve se parecer o mais próximo possível do design<br>
-- Sua página deve ser responsiva<br>
+Também pode me enviar um feedback pelo [LinkedIn](https://www.linkedin.com/in/magdielndantas)!
 
-
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/255f1d04baf02f7e818c6e4ec36ddddf/desktop.png" width="380" height="380">
-
-
-Feel free to use any workflow you are comfortable with :)
-
-# Colors:
-Orange: #D2872C<br>
-Gray: #766F68
-
-# Design:
-Design available in `./design` path<br>
-Images available in `./assets` path<br>
-<br>
-Modelo disponível na pasta `./design`<br>
-Imagens disponíveis na pasta `./assets`<br>
-
-# Font family:
-- Roboto
-
-# Share!
-Initialize your project with this template in your github as a public repository<br>
-Capture a screenshot, gif or video and share your result in Linkedin<br>
-Send me a feedback in  <a href="https://www.linkedin.com/in/lorenagmontes/">Linkedin</a>!<br>
-
-Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+Desafio criado por [Magdiel Dantas](https://github.com/magdielndantas)
