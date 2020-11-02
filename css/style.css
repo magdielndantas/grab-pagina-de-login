@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* container flex-box in row */
+
+/* div login */
+.login {
+  padding-top: 110px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  background: #4e5bee;
+  height: 625px;
+}
+
+.login .box-h1-p {
+  margin-bottom: 30px;
+}
+
+.box-h1-p img {
+  width: 150px;
+}
+
+input {
+  margin-bottom: 20px;
+  padding: 12px 6px;
+  border-radius: 39px;
+  border: 2px solid white;
+  background: none;
+  outline: none;
+}
+
+::placeholder {
+  color: white;
+}
+
+button {
+  padding: 12px 65px;
+  border-radius: 39px;
+  border: none;
+  background: white;
+  font-weight: bold;
+  outline: none;
+}
+/* botton */
+.botton {
+  margin-top: 20%;
+}
+.p-botton {
+  color: white;
+  margin-bottom: 10px;
+  font-size: 11px;
+}
+
+.img-bk {
+  display: none;
+}
+
+/* imagem desktop */
+
+@media (min-width: 858px) {
+  .container {
+    display: flex;
+  }
+  .login {
+    padding-top: 110px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    background: #4e5bee;
+    width: 595px;
+    height: 625px;
+  }
+
+  .img-bk .im {
+    width: 875px;
+    position: absolute;
+    top: 15px;
+    right: 54px;
+  }
+  .img-bk {
+    display: block;
+  }
+}
