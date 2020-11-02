@@ -3,9 +3,32 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- google fonts roboto 400 -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
     <title>Grab - Login</title>
   </head>
   <body>
-    
+    <div id="container">
+      <div class="login">
+        <div class="box-h1-p">
+          <img src="./assets/logo-grab.svg" alt="" />
+        </div>
+        <input type="text" placeholder="@" id="login" />
+        <input type="password" id="senha" />
+        <button onclick="entrar()">Entrar</button>
+        <div class="botton">
+          <p class="p-botton">Problemas para entrar ?</p>
+          <p class="p-botton">clique aqui</p>
+        </div>
+      </div>
+      <div class="img-bk">
+        <img src="./assets/undraw_interview_rmcf.svg" alt="" class="im">
+      </div>
+    </div>
+    <script src="./js/scripts.js"></script>
   </body>
 </html>
