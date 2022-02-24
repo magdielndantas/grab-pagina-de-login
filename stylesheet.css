@@ -1,0 +1,35 @@
+body{
+
+    max-width: 700px;
+}
+
+.container{
+    display: flex;
+    max-width: fit-content;
+}
+
+.left__blue{
+    background: #4E5BEE;
+}
+
+h1{
+    display: none;
+}
+
+.title > img{
+    width: auto;
+    height: 100px;
+    padding: 100px;
+    margin: auto;
+}
+
+.form{}
+
+.button{}
+
+.solve__problem{}
+
+.image > img{
+    width: auto;
+    height: 500px;
+}
