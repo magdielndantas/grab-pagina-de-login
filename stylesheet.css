@@ -3,6 +3,10 @@ body{
     max-width: 700px;
 }
 
+.error{
+    border: 1px solid red;
+}
+
 .container{
     display: flex;
     max-width: fit-content;
