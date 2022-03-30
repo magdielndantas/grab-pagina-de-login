@@ -1,27 +1,35 @@
 body{
 
     max-width: 700px;
+    margin: 0px;
+
 }
 
 button{
     border-radius: 10px;    
-    border: 1px white;
+    background-color: #E5E5E5;
+    border: 1px #E5E5E5;
     display: flex;
     justify-content: space-between;
     margin: auto;
+
 }
 .error{
-    border: 1px solid red;
+    border: 2px solid #FF5757;
 }
 
 .container{
     display: flex;
-    width: 100vw;
-    height: 100vh;
+    width: 97vw;
+    height: 97vh;
 }
 
 .left__blue{
     background: #4E5BEE;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 h1{
@@ -30,18 +38,27 @@ h1{
 
 input{
     border-radius: 10px;
-    border: 1px white;
+    border: 2px #F8F8F8 solid;
     display: flex;
     justify-content: space-between;
-    margin: auto;
+    margin: 5px;
+    background-color: #4E5BEE;
 }
 
 .solve__problem{
-   text-align: center;
-    color: white;
-
+    text-align: center;  
+    display: flex;
+    justify-content: flex-end;
 }
 
+a:link {
+    color: white;
+    text-decoration: none;
+}
+p > a{
+    color: white;
+    text-align:end;
+}
 .title > img{
     width: auto;
     height: 100px;
@@ -49,23 +66,23 @@ input{
     margin: auto;
 }
 
-.form{}
-
-.button{}
-
-.solve__problem{}
 
 .image > img{
-    width: auto;
-    height: 500px;
+    max-width: 800px;
+    max-height: fit-content;
+    margin: 0px;
+    padding:0px;    
 }
 
-@media screen and (max-width:740px){
+@media screen and (max-width:800px){
+
     .image{
         display:none;
     }
     .left__blue{
         width: 100%;
         height: 100%;
+        padding: 0px;
+        margin:0px;
     } 
 }
